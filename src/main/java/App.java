@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello DevOps Updated");
+        System.out.println("Updated");
     }
 }
